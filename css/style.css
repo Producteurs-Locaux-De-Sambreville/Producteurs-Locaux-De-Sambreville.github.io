@@ -1,0 +1,85 @@
+.Titre{
+	font-size: 40px;
+	margin-top: 10px;
+	text-decoration: underline;
+}
+
+.contenu{
+	margin-left: 20px;
+	font-size: 20px;
+}
+
+.form-group{
+	margin-left: 20px;
+	margin-right: 80px;
+}
+
+.form-check{
+	margin-left: 20px;
+	margin-right: 80px;
+}
+.btn{
+	margin-left: 20px;
+	margin-right: 80px;
+}
+.nav-item{
+	font-size: 20px;
+}
+.Bas-de-page{
+	background-color: #3D3F43;
+	color: white;
+}
+.text-bas{
+	margin-left: 50px;
+}
+.mentions{
+	background-color: black;
+	color: white;
+}
+.text-mentions{
+	margin-left: 50px;
+}
+.sah{
+	color: #9BDB16;
+	font-size: 25px;
+}
+.bas{
+	position: relative;
+	bottom: 0;
+	padding-top: 50px;
+	height: 50px;
+	width: 100%;
+}
+.bas2{
+	position: absolute;
+	bottom: 133px;
+	padding-top: 50px;
+	height: 50px;
+	width: 100%;
+}
+.card{
+	margin: auto;
+
+}
+a{
+	color: blue;
+	text-decoration: underline;
+}
+.z-depth-1-half{
+	text-align: center;
+
+}
+.row{
+	margin-left: 20px;
+	margin-right: 20px
+}
+.text-bas2{
+	text-align: left;
+}
+.actu1{
+	margin-left: 20px;
+}
+.col{
+	margin-top: 20px; 	
+	margin-bottom: 	20px;
+}
